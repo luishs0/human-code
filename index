@@ -1,0 +1,14 @@
+Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
+
+dato: articolo, tipo di consegna, budget, scelta
+
+ 1. Entrare Amazon 
+    Fare login su Amazon 
+      Login corretta - punto 2, Login svagliata si torna 1 
+ 2. Cercare articolo 
+    Se li piace - punto 3, altrimenti punto 2
+ 3. Scegliere tipo di consegna 
+    Se é prime - punto 4, se non c'e prime allora torniamo punto 2
+ 4. Bugdet 
+    Se budget e troppo alto allora torniamo punto 2, se è basso allora 5 
+  5. Aquisto
